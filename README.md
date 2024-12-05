@@ -22,11 +22,16 @@ This project presents a comprehensive analysis of crime patterns in San Jose, fo
    - **Daylight Hours:** ~48K crimes.
    - **Nighttime Hours:** ~18K crimes.
 
+![Alt text](s3_f.png)
+
 ### **Time and Day Analysis**
 1. **Crime During Business Hours:** ~34K cases, indicating significant incidents during work hours.
 2. **Crime at Night:** ~45K cases, highlighting a critical need for nighttime safety measures.
 3. **Day-wise Crime Pattern:**
    - Crime rates are relatively consistent across days, with daily incidents ranging between 2.0K and 2.5K.
+  
+
+![Alt text](s4f_p.png)
 
 ### **Geographical Insights**
 - The map highlights crime distribution across California, with specific emphasis on incidents in San Jose.
