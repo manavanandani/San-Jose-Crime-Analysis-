@@ -9,6 +9,10 @@ This project presents a comprehensive analysis of crime patterns in San Jose, fo
 2. **Average Daily Incidents:** 16 cases reported per day.
 3. **Peak Crime Time:** Most crimes occur around **12:00 AM**, indicating a trend towards nighttime criminal activity.
 
+
+![Alt text](/Users/manavanandani/Downloads/s2_f.png)
+
+
 ### **Crime Trends**
 1. **Crime by Month:** 
    - **Highest Crime Rate:** Occurs in January with approximately 10.9K cases.
