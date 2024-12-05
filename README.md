@@ -10,7 +10,8 @@ This project presents a comprehensive analysis of crime patterns in San Jose, fo
 3. **Peak Crime Time:** Most crimes occur around **12:00 AM**, indicating a trend towards nighttime criminal activity.
 
 
-![Alt text](/Users/manavanandani/Downloads/s2_f.png)
+![Alt text](s2_f.png)
+
 
 
 ### **Crime Trends**
