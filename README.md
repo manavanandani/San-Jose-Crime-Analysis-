@@ -1,9 +1,3 @@
-# San-Jose-Crime-Analysis-
-
-Based on the visuals in the uploaded dashboards, here are some insights you can include in your GitHub README file:
-
----
-
 # San Jose Crime Analysis Dashboard
 
 This project presents a comprehensive analysis of crime patterns in San Jose, focusing on time, day, and monthly trends. Built using Power BI, the dashboard provides visual insights for law enforcement and public safety strategists.
@@ -53,15 +47,3 @@ This project presents a comprehensive analysis of crime patterns in San Jose, fo
 - **Microsoft Bing Maps** for geographical analysis.
 - SQL/Amazon S3 for preprocessing and data storage.
 
----
-
-## Authors
-- Akash Thiagarajan
-- Devarsh Patel
-- Dharmikumar Patel
-- Manav Anandani
-- Smit Ardeshana
-
----
-
-Let me know if you'd like further customization or additional sections for the README file!
